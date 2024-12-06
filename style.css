@@ -27,8 +27,8 @@ nav li {
     margin-left: 25px;
 }
 
-nav a :hover {
-    background-color: #673de6;
+nav a:hover {
+    background-color: black;
     color: #fff;
     font-weight: bold;
     border-radius: 5px;
@@ -84,7 +84,9 @@ footer {
 
 @media screen and (max-width: 1080px) {
   #content {
-    width: 100px;
+    width: 100%;
     padding: 0;
   }
 }
+
+
